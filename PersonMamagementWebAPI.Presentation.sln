@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonManagementWebAPI.Presentation", "PersonMamagementWebAPI.Presentation\PersonManagementWebAPI.Presentation.csproj", "{AB6ABBC8-DF07-4C35-AFE7-EB67BB25D4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonManagementWebAPI.Entities", "PersonManagementWebAPI.Entities\PersonManagementWebAPI.Entities.csproj", "{1C6F4AF2-B78B-4E4A-85D8-50A9F5AF4C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonManagementWebAPI.Application", "PersonManagementWebAPI.Application\PersonManagementWebAPI.Application.csproj", "{1AAF0BEC-3361-45C0-81E9-2CCEE120EB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6ABBC8-DF07-4C35-AFE7-EB67BB25D4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6ABBC8-DF07-4C35-AFE7-EB67BB25D4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6ABBC8-DF07-4C35-AFE7-EB67BB25D4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6ABBC8-DF07-4C35-AFE7-EB67BB25D4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6F4AF2-B78B-4E4A-85D8-50A9F5AF4C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6F4AF2-B78B-4E4A-85D8-50A9F5AF4C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6F4AF2-B78B-4E4A-85D8-50A9F5AF4C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6F4AF2-B78B-4E4A-85D8-50A9F5AF4C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAF0BEC-3361-45C0-81E9-2CCEE120EB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAF0BEC-3361-45C0-81E9-2CCEE120EB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAF0BEC-3361-45C0-81E9-2CCEE120EB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAF0BEC-3361-45C0-81E9-2CCEE120EB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A824173-2DC7-495F-8360-91BF7B0DC73B}
+	EndGlobalSection
+EndGlobal
